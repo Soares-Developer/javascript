@@ -1,2 +1,2 @@
 # javascript
- Curso de Javascriot
+ Curso de Javascriot 
